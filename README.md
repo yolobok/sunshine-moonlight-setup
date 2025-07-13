@@ -23,4 +23,4 @@ Stream any PC game to another screen — with just one monitor, full audio separ
 _(Add your screenshots to the assets/ folder)_
 
 ---
-Made with ❤️ by Muhammad
+Dedicated to Fahad by Muhammad
